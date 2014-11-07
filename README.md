@@ -11,4 +11,4 @@ All PHP code contained in this repository is (c) by Harald Lapp and available un
 the [BSD License](https://raw.githubusercontent.com/octris/cldr-data/master/bin/LICENSE).
 
 For further information regarding the unicode data files available in this repository
-please have a look at the [Unicode License Agreement](https://raw.githubusercontent.com/octris/cldr-data/master/data/LICENSE).
+please have a look at the [Unicode License Agreement](https://raw.githubusercontent.com/octris/cldr-data/master/data/unicode-license.txt).
