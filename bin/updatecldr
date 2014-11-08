@@ -19,7 +19,7 @@ if ($argc != 2) {
 }
 
 $src = $argv[1];
-$dst = realpath(__DIR__ . '/../data/cldr/');
+$dst = realpath(__DIR__ . '/../data/');
 
 if ($dst != '') {
     $tmp = scandir($dst);
